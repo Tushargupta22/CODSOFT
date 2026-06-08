@@ -6,9 +6,6 @@
 ## 📸 Screenshots:
 Below are the exported screens of the signup flow UI:
 
-## 📄 Description:
-This is a UI/UX design for a signup flow, created as part of the CodSoft internship task. It includes user-friendly forms, validation indicators, and mobile-first design principles.
-
 # Task 3 - Restaurant Website (Figma Design)
 🔗 Figma File Link:
 https://www.figma.com/proto/z3AlnKtkxwM4iQFclEpIPv/Restuarant--Website?node-id=0-1&t=dXQisCN6CKub5Pz4-1
@@ -19,6 +16,3 @@ https://www.figma.com/proto/z3AlnKtkxwM4iQFclEpIPv/Restuarant--Website?node-id=0
 
 📸 Screenshots:
 Below are the exported screens of the signup flow UI:
-
-📄 Description:
-This is a UI/UX design for a signup flow, created as part of the CodSoft internship task. It includes user-friendly forms, validation indicators, and mobile-first design principles.
